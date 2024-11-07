@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Moda Ürün 1",
+    "description": "Moda ürün açıklaması 1.",
+    "image": "https://static.trendme.net/temp/thumbs/1200-630-2-90/haljina_Haljine-LadyDelish-full-11160-451480.png",
+    "category": "Moda"
+  },
+  {
+    "id": 2,
+    "name": "Moda Ürün 2",
+    "description": "Moda ürün açıklaması 2.",
+    "image": "https://avatars.mds.yandex.net/i?id=35077a66c7212b188ff93a98568ccdf58c732e07-9869575-images-thumbs&n=13",
+    "category": "Moda"
+  },
+  {
+    "id": 3,
+    "name": "Elektronik Ürün 1",
+    "description": "Elektronik ürün açıklaması 1.",
+    "image": "https://i.pinimg.com/originals/6e/0a/ec/6e0aec4395338e37902cd89c05c41e88.jpg",
+    "category": "Elektronik"
+  },
+  {
+    "id": 4,
+    "name": "Elektronik Ürün 2",
+    "description": "Elektronik ürün açıklaması 2.",
+    "image": "https://i.pinimg.com/originals/6e/0a/ec/6e0aec4395338e37902cd89c05c41e88.jpg",
+    "category": "Elektronik"
+  },
+  {
+    "id": 5,
+    "name": "Kozmetik Ürün 1",
+    "description": "Kozmetik ürün açıklaması 1.",
+    "image": "https://www.gozetim.org/img/tuketici-kimyasallari---kozmetik-ve-kisisel-bakim-urunleri---istikrar-calismalari.jpg",
+    "category": "Kozmetik"
+  },
+  {
+    "id": 6,
+    "name": "Kozmetik Ürün 2",
+    "description": "Kozmetik ürün açıklaması 2.",
+    "image": "https://i.pinimg.com/originals/73/ea/99/73ea991c22c1190c774902e241b415a7.jpg",
+    "category": "Kozmetik"
+  }
+]
